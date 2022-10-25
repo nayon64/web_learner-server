@@ -1,0 +1,112 @@
+[
+  {
+    "_id": 1,
+    "title": "Basic HTML and CSS",
+    "picture":"https://img.freepik.com/free-vector/programmer-working-with-css_52683-24172.jpg?w=996&t=st=1666715837~exp=1666716437~hmac=ba4608bf9bd1960ab22edc5bf9d20e7ef242c693c05b42de0221920f7eecff20",
+    "about": "Web Learner provide you the basic concept learning course of Basic HTML and CSS course. This is helping you creta a web site by html and vanila css . It is hleping your web development learnig process.",
+    "syllabus":[
+      "Html","CSS"
+    ],
+    "author":{
+      "name":"Adams smith",
+      "authorUrl":"https://cdn-icons-png.flaticon.com/512/2202/2202112.png"
+    },
+    "rating":4.5,
+    "price":12,
+    "courseInfo": {
+      "quizes": "120",
+      "videos": "10",
+      "assignments": "5"
+    }
+  },
+  {
+    "_id": 2,
+    "title": "Profesional Web development course",
+    "picture": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png",
+    "about": "Profesional Web Development Courese is the best web development course of recent time . It is help your all concept of web development . There we learn you Html , Css , Javascript , React etc.",
+    "syllabus": ["Html", "CSS", "JavaScript", "React"],
+    "author": {
+      "name": "Emma. Watson",
+      "authorUrl": "https://cdn-icons-png.flaticon.com/512/4086/4086609.png"
+    },
+    "rating": 4.8,
+    "price": 40,
+    "courseInfo": {
+      "quizes": "320",
+      "videos": "40",
+      "assignments": "10"
+    }
+  },
+  {
+    "_id": 3,
+    "title": "Basic Concept of JavaScript",
+    "picture": "https://miro.medium.com/max/1024/1*-2VDe74tjLJnng9k9g6Cqg.jpeg",
+    "about": "Basic Concept of Javascript cousers is helping you to learning main concept of Javascript. There we learn you Data type,  Array Looping, function ect. This courses proviede you life time access.",
+    "syllabus": ["Basic of JavaScript", "ES6", "DOM"],
+    "author": {
+      "name": "Adams smith",
+      "authorUrl": "https://cdn-icons-png.flaticon.com/512/2202/2202112.png"
+    },
+    "rating": 4.7,
+    "price": 30,
+    "courseInfo": {
+      "quizes": "350",
+      "videos": "42",
+      "assignments": "12"
+    }
+  },
+  {
+    "_id": 4,
+    "title": "100 Days JavaScript Challenge",
+    "picture": "https://img.freepik.com/free-vector/javascript-frameworks-concept-illustration_114360-4699.jpg?w=996&t=st=1666716157~exp=1666716757~hmac=e58fe379400f9ec26b86206649315d4fe384d4253fb9c63a9bfb688f9606abcc",
+    "about": "JavaScript skills by building Amazing projects over the next 100 Days with HTML, CSS and JavaScript. Web Learner provied you 100 Days Javascript Challenge Course. We try to complete all javascript thing in 100 days.",
+    "syllabus": ["Core concept of Javascript", "DOM", "ES6"],
+    "author": {
+      "name": "James Matt",
+      "authorUrl": "https://cdn-icons-png.flaticon.com/512/4440/4440953.png"
+    },
+    "rating": 4.8,
+    "price": 34,
+    "courseInfo": {
+      "quizes": "250",
+      "videos": "35",
+      "assignments": "7"
+    }
+  },
+  {
+    "_id": 5,
+    "title": "Web Development with React",
+    "picture": "https://img.freepik.com/premium-vector/react-native-mobile-apps-development-concept-with-modern-flat-style-vector-illustration_25147-695.jpg?w=1060",
+    "about": "React is the most popular library of JavaScript. Most of people use react in her project. Recently, React library demand is big. So, Web Lerner is provied your Web Development With React Course.",
+    "syllabus": ["Core Concept of React", "How to work React"],
+    "author": {
+      "name": "Adams smith",
+      "authorUrl": "https://cdn-icons-png.flaticon.com/512/2202/2202112.png"
+    },
+    "rating": 4.6,
+    "price": 25,
+    "courseInfo": {
+      "quizes": "300",
+      "videos": "25",
+      "assignments": "5"
+    }
+  },
+  {
+    "_id": 6,
+    "title": "Complete Web Development course",
+    "picture": "https://virtualteachbd.com/wp-content/uploads/2022/03/web-development.png",
+    "about": "There we learn Html, css, javascript and React . Our course will given some pre recorded video. Give you some time for practice this video . Complete some video we will give an Assignment for check your learning. At last we will provied you a certificet.",
+    "syllabus": ["Html", "CSS", "JavaScript", "React", "ExpressJs"],
+    "author": {
+      "name": "James Matt",
+      "authorUrl": "https://cdn-icons-png.flaticon.com/512/4440/4440953.png"
+    },
+    "rating": 4.7,
+    "price": 45,
+    "courseInfo": {
+      "quizes": "355",
+      "videos": "50",
+      "assignments": "10"
+    }
+  }
+]
