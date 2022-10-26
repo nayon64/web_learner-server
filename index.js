@@ -18,6 +18,11 @@ const courses = require("./data/courses.json")
 app.get("/courses", (req, res) => {
 	res.send(courses)
 })
+app.get("/courses/:id", (req, res) => {
+	const id = req.params.id
+	const singleCourse= courses.find(course=>course._id==id)
+	res.send(singleCourse)
+})
 
 
 app.listen(port, () => {

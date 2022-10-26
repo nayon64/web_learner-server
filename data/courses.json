@@ -7,6 +7,7 @@
     "syllabus":[
       "Html","CSS"
     ],
+    "totalReviews":122,
     "author":{
       "name":"Adams smith",
       "authorUrl":"https://cdn-icons-png.flaticon.com/512/2202/2202112.png"
@@ -17,14 +18,17 @@
       "quizes": "120",
       "videos": "10",
       "assignments": "5"
-    }
+    },
+    "lastUpdate":"25/10/2022",
+    "language":"English"
   },
   {
     "_id": 2,
     "title": "Profesional Web development course",
-    "picture": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png",
+    "picture": "https://virtualteachbd.com/wp-content/uploads/2022/03/web-development.png",
     "about": "Profesional Web Development Courese is the best web development course of recent time . It is help your all concept of web development . There we learn you Html , Css , Javascript , React etc.",
     "syllabus": ["Html", "CSS", "JavaScript", "React"],
+    "totalReviews": 54,
     "author": {
       "name": "Emma. Watson",
       "authorUrl": "https://cdn-icons-png.flaticon.com/512/4086/4086609.png"
@@ -35,7 +39,9 @@
       "quizes": "320",
       "videos": "40",
       "assignments": "10"
-    }
+    },
+    "lastUpdate": "25/10/2022",
+    "language": "English"
   },
   {
     "_id": 3,
@@ -43,6 +49,7 @@
     "picture": "https://miro.medium.com/max/1024/1*-2VDe74tjLJnng9k9g6Cqg.jpeg",
     "about": "Basic Concept of Javascript cousers is helping you to learning main concept of Javascript. There we learn you Data type,  Array Looping, function ect. This courses proviede you life time access.",
     "syllabus": ["Basic of JavaScript", "ES6", "DOM"],
+    "totalReviews": 80,
     "author": {
       "name": "Adams smith",
       "authorUrl": "https://cdn-icons-png.flaticon.com/512/2202/2202112.png"
@@ -53,7 +60,9 @@
       "quizes": "350",
       "videos": "42",
       "assignments": "12"
-    }
+    },
+    "lastUpdate": "25/10/2022",
+    "language": "English"
   },
   {
     "_id": 4,
@@ -61,6 +70,7 @@
     "picture": "https://img.freepik.com/free-vector/javascript-frameworks-concept-illustration_114360-4699.jpg?w=996&t=st=1666716157~exp=1666716757~hmac=e58fe379400f9ec26b86206649315d4fe384d4253fb9c63a9bfb688f9606abcc",
     "about": "JavaScript skills by building Amazing projects over the next 100 Days with HTML, CSS and JavaScript. Web Learner provied you 100 Days Javascript Challenge Course. We try to complete all javascript thing in 100 days.",
     "syllabus": ["Core concept of Javascript", "DOM", "ES6"],
+    "totalReviews": 75,
     "author": {
       "name": "James Matt",
       "authorUrl": "https://cdn-icons-png.flaticon.com/512/4440/4440953.png"
@@ -71,7 +81,9 @@
       "quizes": "250",
       "videos": "35",
       "assignments": "7"
-    }
+    },
+    "lastUpdate": "25/10/2022",
+    "language": "English"
   },
   {
     "_id": 5,
@@ -79,6 +91,7 @@
     "picture": "https://img.freepik.com/premium-vector/react-native-mobile-apps-development-concept-with-modern-flat-style-vector-illustration_25147-695.jpg?w=1060",
     "about": "React is the most popular library of JavaScript. Most of people use react in her project. Recently, React library demand is big. So, Web Lerner is provied your Web Development With React Course.",
     "syllabus": ["Core Concept of React", "How to work React"],
+    "totalReviews": 98,
     "author": {
       "name": "Adams smith",
       "authorUrl": "https://cdn-icons-png.flaticon.com/512/2202/2202112.png"
@@ -89,14 +102,17 @@
       "quizes": "300",
       "videos": "25",
       "assignments": "5"
-    }
+    },
+    "lastUpdate": "25/10/2022",
+    "language": "English"
   },
   {
     "_id": 6,
     "title": "Complete Web Development course",
-    "picture": "https://virtualteachbd.com/wp-content/uploads/2022/03/web-development.png",
+    "picture": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png",
     "about": "There we learn Html, css, javascript and React . Our course will given some pre recorded video. Give you some time for practice this video . Complete some video we will give an Assignment for check your learning. At last we will provied you a certificet.",
     "syllabus": ["Html", "CSS", "JavaScript", "React", "ExpressJs"],
+    "totalReviews": 125,
     "author": {
       "name": "James Matt",
       "authorUrl": "https://cdn-icons-png.flaticon.com/512/4440/4440953.png"
@@ -107,6 +123,8 @@
       "quizes": "355",
       "videos": "50",
       "assignments": "10"
-    }
+    },
+    "lastUpdate": "25/10/2022",
+    "language": "English"
   }
 ]
