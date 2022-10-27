@@ -15,7 +15,7 @@ app.use(cors())
 const courses = require("./data/courses.json")
 
 // select blogs data 
-const blogs = require("./data/courses.json")
+const blogs = require("./data/blog.json")
 
 // server root level response 
 app.get("/", (req, res) => {
