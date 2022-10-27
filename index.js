@@ -14,10 +14,26 @@ app.use(cors())
 // select courses data
 const courses = require("./data/courses.json")
 
+// select blogs data 
+const blogs = require("./data/courses.json")
+
+// server root level response 
+app.get("/", (req, res) => {
+	res.send("Server is running")
+})
+
 // response courses data in /courses api
 app.get("/courses", (req, res) => {
 	res.send(courses)
 })
+
+
+// response blogs data in /blogs api
+app.get("/blogs", (req, res) => {
+	res.send(blogs)
+})
+
+// response single course data 
 app.get("/courses/:id", (req, res) => {
 	const id = req.params.id
 	const singleCourse= courses.find(course=>course._id==id)
